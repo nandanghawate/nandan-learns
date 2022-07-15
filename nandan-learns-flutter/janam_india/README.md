@@ -3,6 +3,7 @@
 # janam_india
 * A new Flutter project - web view app designed for Janam India
 * The app will open mobile view website of - www.janamindia.org
+* Tested only on Samsung M30s 
 
 ### How do I get set up? ###
 
@@ -19,4 +20,4 @@
 
 * Repository is owned and managed by Nandan Ghawate.
 * Nandan can be reached at nandan.ghawate@gmail.com
-* https://nandanghawate.com
+* http://nandanghawate.com
